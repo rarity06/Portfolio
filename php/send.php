@@ -9,8 +9,8 @@ require __DIR__ . '/../PHPMailer/src/SMTP.php';
 
 // DATOS SMTP (EDITA ESTO)
 $SMTP_HOST = "smtp.gmail.com";
-$SMTP_USER = "rarityluna12@gmail.com";
-$SMTP_PASS = "fcpk ycxl ggex rpho"; // no uses tu contraseña normal
+$SMTP_USER = "TU-EMAIL";
+$SMTP_PASS = "TU-CLAVE"; // no uses tu contraseña normal
 $SMTP_PORT = 587;
 
 // DATOS DEL FORMULARIO
